@@ -27,7 +27,7 @@ public class Sample {
 	}
 	
 	public int David() {
-		return 0;
+		return 67;
 		
 	}
 }
