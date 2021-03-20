@@ -22,12 +22,18 @@ public class Sample {
 		
 		int ff = (int)c;
 		System.out.println("Value of ff is " + ff);
+		
+		
 	}
 	
-	
-	
-	public String display(int a, int b) {
-		return "done";
+	public int David() {
+		return 0;
+		
 	}
-
 }
+
+
+
+
+	
+	
